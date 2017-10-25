@@ -2,13 +2,13 @@
 font-family: Helvetica;
 color:white;
 text-align: center;
-background-image: url("resources/image1.png");
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
-.top h1{
+h1{
   font-size: 70px;
   font-weight: bold;
 }
-.top a {
+a {
   color:white;
   font-size: 18px;
 }
@@ -16,33 +16,35 @@ background-image: url("resources/image1.png");
   text-align: center;
   font-family: helvetica;
 }
-.process h2 {
+h2 {
   font-size: 32px;
   font-weight: bold;
 }
-.process h3 {
+h3  {
   font-size: 23px;
   font-weight: bold;
 }
-.process p {
+p  {
   font-size: 14px;
 }
- #des {
+ #des h2 {
   font-family:helvetica;
   font-size: 23px;
   font-weight: bold;
   color:white;
   text-align: center;
-  background-image: url("resources/image1.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 .bottom {
   font-family: helvetica;
   text-align: center;
 }
-.bottom h3git {
-  font-size: 32px;
-  font-weight: bold;
+.last  {
+  background-color: dimgray;
+  font-size: 11px;
+  color:white;
+  font-family: helvetica;
 }
-.bottom p{
-  font-size: 14px;
+.last a{
+  font-size: 11px;
 }
